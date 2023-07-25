@@ -85,3 +85,6 @@ The fisher exact test shows the P-value is 00000004.23, which makes us reject th
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Based on the research of a new preventative aids drug and if it is effective, among drug users, we have found the vaccine to be effective in preventing aids. Those who received the placebo were more to get aids 3x more likely. The clinical test trial allowed us to reject the null hypothesis.
+
